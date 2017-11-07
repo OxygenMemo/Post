@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             li>a{
                 color: white;
             }
-            #LOGO{
+            .logo{
                 size: 10em;
                 color: #004563;
             }
@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
             <div class="col-sm-12">
                 <center>
-                    <h1 id="LOGO">KINDEE</h1>
+                    <h1 class="logo">KINDEE</h1>
                 </center>
                 
             </div>
