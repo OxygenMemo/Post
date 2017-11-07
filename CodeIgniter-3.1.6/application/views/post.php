@@ -17,6 +17,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             li>a{
                 color: white;
             }
+            #LOGO{
+                size: 200%;
+                color: #004563;
+            }
         </style>
         <?php 
             //#004563 น้ำเงิน
@@ -27,7 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <nav class="navbar navbar-inverse">
           <div class="container-fluid">
             <div class="navbar-header">
-              <a class="navbar-brand" href="#">WebSiteName</a>
+              <a class="navbar-brand" href="#">KINKEE</a>
             </div>
             <ul class="nav navbar-nav">
               <li class="active"><a href="#">Home</a></li>
@@ -45,6 +49,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
           </div>
         </nav> 
+        <!-- close nav !-->
+
+        <div class="row">
+            <div class="col-sm-12">
+                <center>
+                    <h1 id="LOGO">KINDEE</h1>
+                </center>
+                
+            </div>
+        </div>
         </div>
     </body>
 </html>
