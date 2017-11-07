@@ -18,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 color: white;
             }
             #LOGO{
-                size: 500%;
+                size: 10em;
                 color: #004563;
             }
         </style>
